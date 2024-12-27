@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCustomerFixedPrices" targetNamespace="http://tempuri.org/dsCustomerFixedPrices.xsd" xmlns:mstns="http://tempuri.org/dsCustomerFixedPrices.xsd" xmlns="http://tempuri.org/dsCustomerFixedPrices.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCustomerFixedPrices" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsCustomerFixedPrices" msprop:Generator_UserDSName="dsCustomerFixedPrices" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CustomerFixedPrices" msprop:Generator_UserTableName="CustomerFixedPrices" msprop:Generator_RowDeletedName="CustomerFixedPricesRowDeleted" msprop:Generator_TableClassName="CustomerFixedPricesDataTable" msprop:Generator_RowChangedName="CustomerFixedPricesRowChanged" msprop:Generator_RowClassName="CustomerFixedPricesRow" msprop:Generator_RowChangingName="CustomerFixedPricesRowChanging" msprop:Generator_RowEvArgName="CustomerFixedPricesRowChangeEvent" msprop:Generator_RowEvHandlerName="CustomerFixedPricesRowChangeEventHandler" msprop:Generator_TablePropName="CustomerFixedPrices" msprop:Generator_TableVarName="tableCustomerFixedPrices" msprop:Generator_RowDeletingName="CustomerFixedPricesRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CustomerId" msprop:Generator_UserColumnName="CustomerId" msprop:Generator_ColumnPropNameInRow="CustomerId" msprop:Generator_ColumnVarNameInTable="columnCustomerId" msprop:Generator_ColumnPropNameInTable="CustomerIdColumn" type="xs:decimal" />
+              <xs:element name="ItemId" msprop:Generator_UserColumnName="ItemId" msprop:Generator_ColumnPropNameInRow="ItemId" msprop:Generator_ColumnVarNameInTable="columnItemId" msprop:Generator_ColumnPropNameInTable="ItemIdColumn" type="xs:decimal" />
+              <xs:element name="PricePerPack" msprop:Generator_UserColumnName="PricePerPack" msprop:Generator_ColumnPropNameInRow="PricePerPack" msprop:Generator_ColumnVarNameInTable="columnPricePerPack" msprop:Generator_ColumnPropNameInTable="PricePerPackColumn" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_UserColumnName="Discount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" type="xs:decimal" default="0" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CustomerFixedPrices" />
+      <xs:field xpath="mstns:CustomerId" />
+      <xs:field xpath="mstns:ItemId" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1927 @@
+E:\POS Retail\bin\Debug\POSRetail.exe.config
+E:\POS Retail\bin\Debug\POSRetail.exe.manifest
+E:\POS Retail\bin\Debug\POSRetail.application
+E:\POS Retail\bin\Debug\POSRetail.exe
+E:\POS Retail\bin\Debug\POSRetail.pdb
+E:\POS Retail\bin\Debug\Aspper.Barcode.NET.dll
+E:\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+E:\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\POS Retail\bin\Debug\Terrek.Barcode.WinForms.dll
+E:\POS Retail\bin\Debug\Interop.VBA.dll
+E:\POS Retail\obj\Debug\Interop.VBA.dll
+E:\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+E:\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+E:\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+E:\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+E:\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+E:\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+E:\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+E:\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+E:\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+E:\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+E:\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+E:\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+E:\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+E:\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+E:\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+E:\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+E:\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+E:\POS Retail\obj\Debug\POSRetail.test1.resources
+E:\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+E:\POS Retail\obj\Debug\POSRetail.exe.manifest
+E:\POS Retail\obj\Debug\POSRetail.application
+E:\POS Retail\obj\Debug\POSRetail.exe
+E:\POS Retail\obj\Debug\POSRetail.pdb
+E:\timmys\POS Retail\bin\Debug\POSRetail.exe.config
+E:\timmys\POS Retail\bin\Debug\POSRetail.exe.manifest
+E:\timmys\POS Retail\bin\Debug\POSRetail.application
+E:\timmys\POS Retail\bin\Debug\POSRetail.exe
+E:\timmys\POS Retail\bin\Debug\POSRetail.pdb
+E:\timmys\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\timmys\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\timmys\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+E:\timmys\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\timmys\POS Retail\bin\Debug\Interop.VBA.dll
+E:\timmys\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+E:\timmys\POS Retail\obj\Debug\Interop.VBA.dll
+E:\timmys\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+E:\timmys\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.test1.resources
+E:\timmys\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+E:\timmys\POS Retail\obj\Debug\POSRetail.exe.manifest
+E:\timmys\POS Retail\obj\Debug\POSRetail.application
+E:\timmys\POS Retail\obj\Debug\POSRetail.exe
+E:\timmys\POS Retail\obj\Debug\POSRetail.pdb
+E:\timmys scroll\POS Retail\bin\Debug\POSRetail.exe.config
+E:\timmys scroll\POS Retail\bin\Debug\POSRetail.exe.manifest
+E:\timmys scroll\POS Retail\bin\Debug\POSRetail.application
+E:\timmys scroll\POS Retail\bin\Debug\POSRetail.exe
+E:\timmys scroll\POS Retail\bin\Debug\POSRetail.pdb
+E:\timmys scroll\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\timmys scroll\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\timmys scroll\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+E:\timmys scroll\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\timmys scroll\POS Retail\bin\Debug\Interop.VBA.dll
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+E:\timmys scroll\POS Retail\obj\Debug\Interop.VBA.dll
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.test1.resources
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.exe.manifest
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.application
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.exe
+E:\timmys scroll\POS Retail\obj\Debug\POSRetail.pdb
+E:\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+E:\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+E:\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+E:\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+E:\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+E:\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+E:\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+E:\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+E:\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+F:\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.dll
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.xml
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.dll
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.xml
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.query.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.query.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.dll
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.xml
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+D:\Software applications\Gloria Jeans P5\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.dll
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.xml
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.query.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+D:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.dll
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.xml
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.query.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.updatesales.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+F:\Windows Projects\new project\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.dll
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.xml
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.query.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.updatesales.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+F:\Windows Projects\new project\Bit Bucket Restaturant POS\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.dll
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.xml
+D:\Windows Projects\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.query.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.updatesales.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+D:\Windows Projects\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.config
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe.manifest
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.application
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.exe
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\POSRetail.pdb
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Shared.dll
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.dll
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\Newtonsoft.Json.xml
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\bin\Debug\Interop.VBA.dll
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csprojResolveAssemblyReference.cache
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\Interop.VBA.dll
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.ResolveComReference.cache
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.ChartofAccounts.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Accounts.Vouchers.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.backup.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmadditems.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddstaff.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmManagestaff.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmOrderrpt.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmStockrpt.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.manageitems.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.Salarymanagement.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddDishes.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmDishmanagement.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierAdd.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmSupplierManagement.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemPackingType.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemSubCategory.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemSubCategory.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmAddItemrecipe.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmManageUsers.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmAddEditUser.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.ControlPanel.frmGlobalSettings.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.admin.frmItemrecipemang.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.controls.BarCodeCtrl.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.BackendForm.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.query.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.RecallBills.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.SuperAdminForm.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.KeyBoard.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataBackUp.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataSetting.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.DataUploading.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Form1.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.frmdbconnector.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Loading.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.login1.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.MainForm.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Reports.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.Superadminpassword.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.forms.updatesales.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Properties.Resources.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.AddRawItems.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurchaseReturn.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.PurChase_List.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.RawItems.Purchase.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmBalaneSheet.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmProfitLoss.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmTrialBalane.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Accounts.frmaccounts.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Customers.FrmCustomers.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.frmpictest.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryItemWise.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventoryBrand.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventorySupplier.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmReceivedInventory.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmConsumedInventory.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmClosingInventory.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Inventory.frmInventoryPreview.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.RptUserSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMarginSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmPaymentWiseSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmOrderWiseSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmTerminalSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmHourlySale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmRefundSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmVoidSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmDiscountSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmCashierSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMenuItemSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.SaleReports.FrmMwnuGroupSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.FrmUserSale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmGLAccounts.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmReceiveableStatemetBank.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Statements.frmPayableStatemetBank.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.Voucher.frmVoucherPrieview.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Reports.waste.FrmWaste.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.AllowDiscount.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.BillRecall.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Exchange.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.ModifierFlaour.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.RefundBill.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.SaleMessage.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.TableOrder.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerId.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Delivery.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Modifier.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.test.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.VoidBill.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.DuplicaeBill.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.CustomerDisplay.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Sale.Sale1.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGroups.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCategory.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddType.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbrand.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Adduom.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addsize.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcolor.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addbranch.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddStore.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.Addcuom.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuG.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMenuItem.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCurrency.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddMOP.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddRecipe.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddModifier.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddGST.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddPrinter.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSQLInfo.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddLayout.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSupplier.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddFlavour.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddUser.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCompanyInfo.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddChartAccountsCodes.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddSalesAccount.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.AddCustomer.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.Setting.DevicesSetting.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.test1.resources
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.csproj.GenerateResource.Cache
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe.manifest
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.application
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.exe
+D:\UNCLE GRILL\Gloria Jeanes\POS Retail\obj\Debug\POSRetail.pdb

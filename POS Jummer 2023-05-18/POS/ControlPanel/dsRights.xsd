@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRights" targetNamespace="http://tempuri.org/dsRights.xsd" xmlns:mstns="http://tempuri.org/dsRights.xsd" xmlns="http://tempuri.org/dsRights.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRights" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsRights" msprop:Generator_DataSetName="dsRights" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="UserRights" msprop:Generator_UserTableName="UserRights" msprop:Generator_RowDeletedName="UserRightsRowDeleted" msprop:Generator_RowChangedName="UserRightsRowChanged" msprop:Generator_RowClassName="UserRightsRow" msprop:Generator_RowChangingName="UserRightsRowChanging" msprop:Generator_RowEvArgName="UserRightsRowChangeEvent" msprop:Generator_RowEvHandlerName="UserRightsRowChangeEventHandler" msprop:Generator_TableClassName="UserRightsDataTable" msprop:Generator_TableVarName="tableUserRights" msprop:Generator_RowDeletingName="UserRightsRowDeleting" msprop:Generator_TablePropName="UserRights">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FormId" msprop:Generator_UserColumnName="FormId" msprop:Generator_ColumnVarNameInTable="columnFormId" msprop:Generator_ColumnPropNameInRow="FormId" msprop:Generator_ColumnPropNameInTable="FormIdColumn" type="xs:decimal" />
+              <xs:element name="CanAdd" msprop:Generator_UserColumnName="CanAdd" msprop:Generator_ColumnVarNameInTable="columnCanAdd" msprop:Generator_ColumnPropNameInRow="CanAdd" msprop:Generator_ColumnPropNameInTable="CanAddColumn" type="xs:boolean" default="true" minOccurs="0" />
+              <xs:element name="CanDelete" msprop:Generator_UserColumnName="CanDelete" msprop:Generator_ColumnVarNameInTable="columnCanDelete" msprop:Generator_ColumnPropNameInRow="CanDelete" msprop:Generator_ColumnPropNameInTable="CanDeleteColumn" type="xs:boolean" default="true" minOccurs="0" />
+              <xs:element name="CanUpdate" msprop:Generator_UserColumnName="CanUpdate" msprop:Generator_ColumnVarNameInTable="columnCanUpdate" msprop:Generator_ColumnPropNameInRow="CanUpdate" msprop:Generator_ColumnPropNameInTable="CanUpdateColumn" type="xs:boolean" default="true" minOccurs="0" />
+              <xs:element name="CanView" msprop:Generator_UserColumnName="CanView" msprop:Generator_ColumnVarNameInTable="columnCanView" msprop:Generator_ColumnPropNameInRow="CanView" msprop:Generator_ColumnPropNameInTable="CanViewColumn" type="xs:boolean" default="true" minOccurs="0" />
+              <xs:element name="Id" msprop:Generator_UserColumnName="Id" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInTable="IdColumn" type="xs:decimal" default="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:UserRights" />
+      <xs:field xpath="mstns:FormId" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

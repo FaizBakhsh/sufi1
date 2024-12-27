@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dstargets" targetNamespace="http://tempuri.org/dstargets.xsd" xmlns:mstns="http://tempuri.org/dstargets.xsd" xmlns="http://tempuri.org/dstargets.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dstargets" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dstargets" msprop:Generator_UserDSName="dstargets">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name" type="xs:string" minOccurs="0" />
+              <xs:element name="Saletarget" msprop:Generator_ColumnVarNameInTable="columnSaletarget" msprop:Generator_ColumnPropNameInRow="Saletarget" msprop:Generator_ColumnPropNameInTable="SaletargetColumn" msprop:Generator_UserColumnName="Saletarget" type="xs:double" minOccurs="0" />
+              <xs:element name="ActualSale" msprop:Generator_ColumnVarNameInTable="columnActualSale" msprop:Generator_ColumnPropNameInRow="ActualSale" msprop:Generator_ColumnPropNameInTable="ActualSaleColumn" msprop:Generator_UserColumnName="ActualSale" type="xs:double" minOccurs="0" />
+              <xs:element name="SaleDiffrence" msprop:Generator_ColumnVarNameInTable="columnSaleDiffrence" msprop:Generator_ColumnPropNameInRow="SaleDiffrence" msprop:Generator_ColumnPropNameInTable="SaleDiffrenceColumn" msprop:Generator_UserColumnName="SaleDiffrence" type="xs:double" minOccurs="0" />
+              <xs:element name="CostPerc" msprop:Generator_ColumnVarNameInTable="columnCostPerc" msprop:Generator_ColumnPropNameInRow="CostPerc" msprop:Generator_ColumnPropNameInTable="CostPercColumn" msprop:Generator_UserColumnName="CostPerc" type="xs:double" minOccurs="0" />
+              <xs:element name="ActualCost" msprop:Generator_ColumnVarNameInTable="columnActualCost" msprop:Generator_ColumnPropNameInRow="ActualCost" msprop:Generator_ColumnPropNameInTable="ActualCostColumn" msprop:Generator_UserColumnName="ActualCost" type="xs:double" minOccurs="0" />
+              <xs:element name="Difference" msprop:Generator_ColumnVarNameInTable="columnDifference" msprop:Generator_ColumnPropNameInRow="Difference" msprop:Generator_ColumnPropNameInTable="DifferenceColumn" msprop:Generator_UserColumnName="Difference" type="xs:double" minOccurs="0" />
+              <xs:element name="WastePerc" msprop:Generator_ColumnVarNameInTable="columnWastePerc" msprop:Generator_ColumnPropNameInRow="WastePerc" msprop:Generator_ColumnPropNameInTable="WastePercColumn" msprop:Generator_UserColumnName="WastePerc" type="xs:double" minOccurs="0" />
+              <xs:element name="ActualWaste" msprop:Generator_ColumnVarNameInTable="columnActualWaste" msprop:Generator_ColumnPropNameInRow="ActualWaste" msprop:Generator_ColumnPropNameInTable="ActualWasteColumn" msprop:Generator_UserColumnName="ActualWaste" type="xs:double" minOccurs="0" />
+              <xs:element name="WasteDifference" msprop:Generator_ColumnVarNameInTable="columnWasteDifference" msprop:Generator_ColumnPropNameInRow="WasteDifference" msprop:Generator_ColumnPropNameInTable="WasteDifferenceColumn" msprop:Generator_UserColumnName="WasteDifference" type="xs:double" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

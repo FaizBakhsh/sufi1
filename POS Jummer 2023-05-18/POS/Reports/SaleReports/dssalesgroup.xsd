@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dssalesgroup" targetNamespace="http://tempuri.org/dssalesgroup.xsd" xmlns:mstns="http://tempuri.org/dssalesgroup.xsd" xmlns="http://tempuri.org/dssalesgroup.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dssalesgroup" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dssalesgroup" msprop:Generator_UserDSName="dssalesgroup">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Hot" msprop:Generator_ColumnVarNameInTable="columnHot" msprop:Generator_ColumnPropNameInRow="Hot" msprop:Generator_ColumnPropNameInTable="HotColumn" msprop:Generator_UserColumnName="Hot" type="xs:double" minOccurs="0" />
+              <xs:element name="Cold" msprop:Generator_ColumnVarNameInTable="columnCold" msprop:Generator_ColumnPropNameInRow="Cold" msprop:Generator_ColumnPropNameInTable="ColdColumn" msprop:Generator_UserColumnName="Cold" type="xs:double" minOccurs="0" />
+              <xs:element name="Food" msprop:Generator_ColumnVarNameInTable="columnFood" msprop:Generator_ColumnPropNameInRow="Food" msprop:Generator_ColumnPropNameInTable="FoodColumn" msprop:Generator_UserColumnName="Food" type="xs:double" minOccurs="0" />
+              <xs:element name="Extras" msprop:Generator_ColumnVarNameInTable="columnExtras" msprop:Generator_ColumnPropNameInRow="Extras" msprop:Generator_ColumnPropNameInTable="ExtrasColumn" msprop:Generator_UserColumnName="Extras" type="xs:double" minOccurs="0" />
+              <xs:element name="Beans" msprop:Generator_ColumnVarNameInTable="columnBeans" msprop:Generator_ColumnPropNameInRow="Beans" msprop:Generator_ColumnPropNameInTable="BeansColumn" msprop:Generator_UserColumnName="Beans" type="xs:double" minOccurs="0" />
+              <xs:element name="Fruit" msprop:Generator_ColumnVarNameInTable="columnFruit" msprop:Generator_ColumnPropNameInRow="Fruit" msprop:Generator_ColumnPropNameInTable="FruitColumn" msprop:Generator_UserColumnName="Fruit" type="xs:double" minOccurs="0" />
+              <xs:element name="Merchendise" msprop:Generator_ColumnVarNameInTable="columnMerchendise" msprop:Generator_ColumnPropNameInRow="Merchendise" msprop:Generator_ColumnPropNameInTable="MerchendiseColumn" msprop:Generator_UserColumnName="Merchendise" type="xs:double" minOccurs="0" />
+              <xs:element name="SalesDiscount" msprop:Generator_ColumnVarNameInTable="columnSalesDiscount" msprop:Generator_ColumnPropNameInRow="SalesDiscount" msprop:Generator_ColumnPropNameInTable="SalesDiscountColumn" msprop:Generator_UserColumnName="SalesDiscount" type="xs:double" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:double" minOccurs="0" />
+              <xs:element name="POSSales" msprop:Generator_ColumnVarNameInTable="columnPOSSales" msprop:Generator_ColumnPropNameInRow="POSSales" msprop:Generator_ColumnPropNameInTable="POSSalesColumn" msprop:Generator_UserColumnName="POSSales" type="xs:double" minOccurs="0" />
+              <xs:element name="NetSales" msprop:Generator_ColumnVarNameInTable="columnNetSales" msprop:Generator_ColumnPropNameInRow="NetSales" msprop:Generator_ColumnPropNameInTable="NetSalesColumn" msprop:Generator_UserColumnName="NetSales" type="xs:double" minOccurs="0" />
+              <xs:element name="Tax" msprop:Generator_ColumnVarNameInTable="columnTax" msprop:Generator_ColumnPropNameInRow="Tax" msprop:Generator_ColumnPropNameInTable="TaxColumn" msprop:Generator_UserColumnName="Tax" type="xs:double" minOccurs="0" />
+              <xs:element name="POS" msprop:Generator_ColumnVarNameInTable="columnPOS" msprop:Generator_ColumnPropNameInRow="POS" msprop:Generator_ColumnPropNameInTable="POSColumn" msprop:Generator_UserColumnName="POS" type="xs:double" minOccurs="0" />
+              <xs:element name="POSCC" msprop:Generator_ColumnVarNameInTable="columnPOSCC" msprop:Generator_ColumnPropNameInRow="POSCC" msprop:Generator_ColumnPropNameInTable="POSCCColumn" msprop:Generator_UserColumnName="POSCC" type="xs:double" minOccurs="0" />
+              <xs:element name="ActualCC" msprop:Generator_ColumnVarNameInTable="columnActualCC" msprop:Generator_ColumnPropNameInRow="ActualCC" msprop:Generator_ColumnPropNameInTable="ActualCCColumn" msprop:Generator_UserColumnName="ActualCC" type="xs:double" minOccurs="0" />
+              <xs:element name="POSCash" msprop:Generator_ColumnVarNameInTable="columnPOSCash" msprop:Generator_ColumnPropNameInRow="POSCash" msprop:Generator_ColumnPropNameInTable="POSCashColumn" msprop:Generator_UserColumnName="POSCash" type="xs:double" minOccurs="0" />
+              <xs:element name="ActualCash" msprop:Generator_ColumnVarNameInTable="columnActualCash" msprop:Generator_ColumnPropNameInRow="ActualCash" msprop:Generator_ColumnPropNameInTable="ActualCashColumn" msprop:Generator_UserColumnName="ActualCash" type="xs:double" minOccurs="0" />
+              <xs:element name="Over" msprop:Generator_ColumnVarNameInTable="columnOver" msprop:Generator_ColumnPropNameInRow="Over" msprop:Generator_ColumnPropNameInTable="OverColumn" msprop:Generator_UserColumnName="Over" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalTrans" msprop:Generator_ColumnVarNameInTable="columnTotalTrans" msprop:Generator_ColumnPropNameInRow="TotalTrans" msprop:Generator_ColumnPropNameInTable="TotalTransColumn" msprop:Generator_UserColumnName="TotalTrans" type="xs:double" minOccurs="0" />
+              <xs:element name="Avg" msprop:Generator_ColumnVarNameInTable="columnAvg" msprop:Generator_ColumnPropNameInRow="Avg" msprop:Generator_ColumnPropNameInTable="AvgColumn" msprop:Generator_UserColumnName="Avg" type="xs:double" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

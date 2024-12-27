@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsfoodcost" targetNamespace="http://tempuri.org/dsfoodcost.xsd" xmlns:mstns="http://tempuri.org/dsfoodcost.xsd" xmlns="http://tempuri.org/dsfoodcost.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsfoodcost" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsfoodcost" msprop:Generator_UserDSName="dsfoodcost">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Group" msprop:Generator_ColumnVarNameInTable="columnGroup" msprop:Generator_ColumnPropNameInRow="Group" msprop:Generator_ColumnPropNameInTable="GroupColumn" msprop:Generator_UserColumnName="Group" type="xs:string" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" msprop:Generator_UserColumnName="Price" type="xs:double" minOccurs="0" />
+              <xs:element name="Qty" msprop:Generator_ColumnVarNameInTable="columnQty" msprop:Generator_ColumnPropNameInRow="Qty" msprop:Generator_ColumnPropNameInTable="QtyColumn" msprop:Generator_UserColumnName="Qty" type="xs:double" minOccurs="0" />
+              <xs:element name="SaleValue" msprop:Generator_ColumnVarNameInTable="columnSaleValue" msprop:Generator_ColumnPropNameInRow="SaleValue" msprop:Generator_ColumnPropNameInTable="SaleValueColumn" msprop:Generator_UserColumnName="SaleValue" type="xs:double" minOccurs="0" />
+              <xs:element name="FoodCost" msprop:Generator_ColumnVarNameInTable="columnFoodCost" msprop:Generator_ColumnPropNameInRow="FoodCost" msprop:Generator_ColumnPropNameInTable="FoodCostColumn" msprop:Generator_UserColumnName="FoodCost" type="xs:double" minOccurs="0" />
+              <xs:element name="PackingCost" msprop:Generator_ColumnVarNameInTable="columnPackingCost" msprop:Generator_ColumnPropNameInRow="PackingCost" msprop:Generator_ColumnPropNameInTable="PackingCostColumn" msprop:Generator_UserColumnName="PackingCost" type="xs:double" minOccurs="0" />
+              <xs:element name="GrossProfit" msprop:Generator_ColumnVarNameInTable="columnGrossProfit" msprop:Generator_ColumnPropNameInRow="GrossProfit" msprop:Generator_ColumnPropNameInTable="GrossProfitColumn" msprop:Generator_UserColumnName="GrossProfit" type="xs:double" minOccurs="0" />
+              <xs:element name="ProfetPerc" msprop:Generator_ColumnVarNameInTable="columnProfetPerc" msprop:Generator_ColumnPropNameInRow="ProfetPerc" msprop:Generator_ColumnPropNameInTable="ProfetPercColumn" msprop:Generator_UserColumnName="ProfetPerc" type="xs:double" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="CostPerc" msprop:Generator_ColumnVarNameInTable="columnCostPerc" msprop:Generator_ColumnPropNameInRow="CostPerc" msprop:Generator_ColumnPropNameInTable="CostPercColumn" msprop:Generator_UserColumnName="CostPerc" type="xs:double" minOccurs="0" />
+              <xs:element name="Target" msprop:Generator_ColumnVarNameInTable="columnTarget" msprop:Generator_ColumnPropNameInRow="Target" msprop:Generator_ColumnPropNameInTable="TargetColumn" msprop:Generator_UserColumnName="Target" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

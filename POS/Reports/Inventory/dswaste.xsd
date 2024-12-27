@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dswaste" targetNamespace="http://tempuri.org/dswaste.xsd" xmlns:mstns="http://tempuri.org/dswaste.xsd" xmlns="http://tempuri.org/dswaste.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dswaste" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dswaste" msprop:Generator_UserDSName="dswaste">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Unit" msprop:Generator_ColumnVarNameInTable="columnUnit" msprop:Generator_ColumnPropNameInRow="Unit" msprop:Generator_ColumnPropNameInTable="UnitColumn" msprop:Generator_UserColumnName="Unit" type="xs:string" minOccurs="0" />
+              <xs:element name="RawWaste" msprop:Generator_ColumnVarNameInTable="columnRawWaste" msprop:Generator_ColumnPropNameInRow="RawWaste" msprop:Generator_ColumnPropNameInTable="RawWasteColumn" msprop:Generator_UserColumnName="RawWaste" type="xs:double" minOccurs="0" />
+              <xs:element name="RAmount" msprop:Generator_ColumnVarNameInTable="columnRAmount" msprop:Generator_ColumnPropNameInRow="RAmount" msprop:Generator_ColumnPropNameInTable="RAmountColumn" msprop:Generator_UserColumnName="RAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="CompleteWaste" msprop:Generator_ColumnVarNameInTable="columnCompleteWaste" msprop:Generator_ColumnPropNameInRow="CompleteWaste" msprop:Generator_ColumnPropNameInTable="CompleteWasteColumn" msprop:Generator_UserColumnName="CompleteWaste" type="xs:double" minOccurs="0" />
+              <xs:element name="CAmount" msprop:Generator_ColumnVarNameInTable="columnCAmount" msprop:Generator_ColumnPropNameInRow="CAmount" msprop:Generator_ColumnPropNameInTable="CAmountColumn" msprop:Generator_UserColumnName="CAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

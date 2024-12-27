@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsweek" targetNamespace="http://tempuri.org/dsweek.xsd" xmlns:mstns="http://tempuri.org/dsweek.xsd" xmlns="http://tempuri.org/dsweek.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsweek" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsweek" msprop:Generator_UserDSName="dsweek">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MenuGroup" msprop:Generator_ColumnVarNameInTable="columnMenuGroup" msprop:Generator_ColumnPropNameInRow="MenuGroup" msprop:Generator_ColumnPropNameInTable="MenuGroupColumn" msprop:Generator_UserColumnName="MenuGroup" type="xs:string" minOccurs="0" />
+              <xs:element name="MenuItem" msprop:Generator_ColumnVarNameInTable="columnMenuItem" msprop:Generator_ColumnPropNameInRow="MenuItem" msprop:Generator_ColumnPropNameInTable="MenuItemColumn" msprop:Generator_UserColumnName="MenuItem" type="xs:string" minOccurs="0" />
+              <xs:element name="Monday" msprop:Generator_ColumnVarNameInTable="columnMonday" msprop:Generator_ColumnPropNameInRow="Monday" msprop:Generator_ColumnPropNameInTable="MondayColumn" msprop:Generator_UserColumnName="Monday" type="xs:string" minOccurs="0" />
+              <xs:element name="Tuesday" msprop:Generator_ColumnVarNameInTable="columnTuesday" msprop:Generator_ColumnPropNameInRow="Tuesday" msprop:Generator_ColumnPropNameInTable="TuesdayColumn" msprop:Generator_UserColumnName="Tuesday" type="xs:string" minOccurs="0" />
+              <xs:element name="Wednesday" msprop:Generator_ColumnVarNameInTable="columnWednesday" msprop:Generator_ColumnPropNameInRow="Wednesday" msprop:Generator_ColumnPropNameInTable="WednesdayColumn" msprop:Generator_UserColumnName="Wednesday" type="xs:string" minOccurs="0" />
+              <xs:element name="Thursday" msprop:Generator_ColumnVarNameInTable="columnThursday" msprop:Generator_ColumnPropNameInRow="Thursday" msprop:Generator_ColumnPropNameInTable="ThursdayColumn" msprop:Generator_UserColumnName="Thursday" type="xs:string" minOccurs="0" />
+              <xs:element name="Friday" msprop:Generator_ColumnVarNameInTable="columnFriday" msprop:Generator_ColumnPropNameInRow="Friday" msprop:Generator_ColumnPropNameInTable="FridayColumn" msprop:Generator_UserColumnName="Friday" type="xs:string" minOccurs="0" />
+              <xs:element name="Saturday" msprop:Generator_ColumnVarNameInTable="columnSaturday" msprop:Generator_ColumnPropNameInRow="Saturday" msprop:Generator_ColumnPropNameInTable="SaturdayColumn" msprop:Generator_UserColumnName="Saturday" type="xs:string" minOccurs="0" />
+              <xs:element name="Sunday" msprop:Generator_ColumnVarNameInTable="columnSunday" msprop:Generator_ColumnPropNameInRow="Sunday" msprop:Generator_ColumnPropNameInTable="SundayColumn" msprop:Generator_UserColumnName="Sunday" type="xs:string" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

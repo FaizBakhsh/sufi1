@@ -1,0 +1,191 @@
+E:\resturent management System\RMS\bin\Debug\MBLFront.exe.config
+E:\resturent management System\RMS\obj\Debug\Interop.VBA.dll
+E:\resturent management System\RMS\obj\Debug\MBLFront.csproj.ResolveComReference.cache
+E:\resturent management System\RMS\obj\Debug\ResolveAssemblyReference.cache
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmSupplierAdd.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmSupplierManagement.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddItemPackingType.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddItemSubCategory.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmItemSubCategory.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.ControlPanel.frmManageUsers.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.ControlPanel.frmAddEditUser.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.ControlPanel.frmGlobalSettings.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.controls.BarCodeCtrl.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.forms.frmdbconnector.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.forms.login.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.forms.MainForm.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.Properties.Resources.resources
+E:\resturent management System\RMS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\resturent management System\RMS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\resturent management System\RMS\bin\Debug\MBLFront.exe
+E:\resturent management System\RMS\bin\Debug\MBLFront.pdb
+E:\resturent management System\RMS\bin\Debug\Interop.VBA.dll
+E:\resturent management System\RMS\obj\Debug\MBLFront.exe
+E:\resturent management System\RMS\obj\Debug\MBLFront.pdb
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddDishes.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmDishmanagement.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddItemrecipe.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmItemrecipemang.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.Customers.Sale.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.Customers.viewcustomers.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.Orders.Manageorders.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmStockrpt.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmOrderrpt.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddstaff.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmManagestaff.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.Salarymanagement.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.backup.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.frmadditems.resources
+E:\resturent management System\RMS\obj\Debug\MBLFront.admin.manageitems.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\bin\Debug\MBLFront.exe.config
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\Interop.VBA.dll
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.csproj.ResolveComReference.cache
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.exe
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.pdb
+E:\projects\rebuilt.rms\resturent management System\RMS\bin\Debug\MBLFront.exe
+E:\projects\rebuilt.rms\resturent management System\RMS\bin\Debug\MBLFront.pdb
+E:\projects\rebuilt.rms\resturent management System\RMS\bin\Debug\Interop.VBA.dll
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.csprojResolveAssemblyReference.cache
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.backup.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmadditems.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddstaff.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmManagestaff.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmOrderrpt.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmStockrpt.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.manageitems.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.Salarymanagement.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddDishes.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmDishmanagement.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmSupplierAdd.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmSupplierManagement.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddItemPackingType.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddItemSubCategory.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmItemSubCategory.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmAddItemrecipe.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.ControlPanel.frmManageUsers.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.ControlPanel.frmAddEditUser.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.ControlPanel.frmGlobalSettings.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.Customers.Sale.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.Customers.viewcustomers.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.admin.frmItemrecipemang.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.controls.BarCodeCtrl.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.forms.frmdbconnector.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.forms.login.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.forms.MainForm.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.Orders.Manageorders.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.Properties.Resources.resources
+E:\projects\rebuilt.rms\resturent management System\RMS\obj\Debug\MBLFront.csproj.GenerateResource.Cache
+E:\POS\bin\Debug\MBLFront.exe.config
+E:\POS\bin\Debug\MBLFront.exe.manifest
+E:\POS\bin\Debug\MBLFront.application
+E:\POS\bin\Debug\MBLFront.exe
+E:\POS\bin\Debug\MBLFront.pdb
+E:\POS\bin\Debug\Aspper.Barcode.NET.dll
+E:\POS\bin\Debug\Terrek.Barcode.WinForms.dll
+E:\POS\bin\Debug\Interop.VBA.dll
+E:\POS\obj\Debug\Interop.VBA.dll
+E:\POS\obj\Debug\MBLFront.csproj.ResolveComReference.cache
+E:\POS\obj\Debug\MBLFront.csproj.GenerateResource.Cache
+E:\POS\obj\Debug\MBLFront.exe.manifest
+E:\POS\obj\Debug\MBLFront.application
+E:\POS\obj\Debug\MBLFront.exe
+E:\POS\obj\Debug\MBLFront.pdb
+E:\POS\obj\Debug\POSRestaurant.Accounts.ChartofAccount.resources
+E:\POS\obj\Debug\POSRestaurant.admin.backup.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmadditems.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmAddstaff.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmManagestaff.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmOrderrpt.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmStockrpt.resources
+E:\POS\obj\Debug\POSRestaurant.admin.manageitems.resources
+E:\POS\obj\Debug\POSRestaurant.admin.receipttest.resources
+E:\POS\obj\Debug\POSRestaurant.admin.Salarymanagement.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmAddDishes.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmDishmanagement.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmSupplierAdd.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmSupplierManagement.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmAddItemPackingType.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmAddItemSubCategory.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmItemSubCategory.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmAddItemrecipe.resources
+E:\POS\obj\Debug\POSRestaurant.ControlPanel.frmManageUsers.resources
+E:\POS\obj\Debug\POSRestaurant.ControlPanel.frmAddEditUser.resources
+E:\POS\obj\Debug\POSRestaurant.ControlPanel.frmGlobalSettings.resources
+E:\POS\obj\Debug\POSRestaurant.admin.frmItemrecipemang.resources
+E:\POS\obj\Debug\POSRestaurant.controls.BarCodeCtrl.resources
+E:\POS\obj\Debug\POSRestaurant.forms.BackendForm.resources
+E:\POS\obj\Debug\POSRestaurant.forms.DataBackUp.resources
+E:\POS\obj\Debug\POSRestaurant.forms.DataSetting.resources
+E:\POS\obj\Debug\POSRestaurant.forms.DataUploading.resources
+E:\POS\obj\Debug\POSRestaurant.forms.Form1.resources
+E:\POS\obj\Debug\POSRestaurant.forms.frmdbconnector.resources
+E:\POS\obj\Debug\POSRestaurant.forms.login.resources
+E:\POS\obj\Debug\POSRestaurant.forms.MainForm.resources
+E:\POS\obj\Debug\POSRestaurant.forms.Reports.resources
+E:\POS\obj\Debug\POSRestaurant.Properties.Resources.resources
+E:\POS\obj\Debug\POSRestaurant.RawItems.AddRawItems.resources
+E:\POS\obj\Debug\POSRestaurant.RawItems.PurChase_List.resources
+E:\POS\obj\Debug\POSRestaurant.RawItems.Purchase.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.Inventory.frmReceivedInventory.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.Inventory.frmConsumedInventory.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.Inventory.frmClosingInventory.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.Inventory.frmInventoryPreview.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.RptUserSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmPaymentWiseSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmOrderWiseSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmTerminalSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmHourlySale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmRefundSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmVoidSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmDiscountSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmCashierSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmMenuItemSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.SaleReports.FrmMwnuGroupSale.resources
+E:\POS\obj\Debug\POSRestaurant.Reports.FrmUserSale.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.RestAllowDiscount.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.BillRecall.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.KDSScreen.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.Members.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.ModifierFlaour.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.RestSale.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.RefundBill.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.SaleMessage.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.Table.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.TableOrder.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.CustomerId.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.Delivery.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.Modifier.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.test.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.VoidBill.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.DuplicaeBill.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.CustomerDisplay.resources
+E:\POS\obj\Debug\POSRestaurant.Sale.Sale1.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddGroups.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddCategory.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddType.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.Addbrand.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.Adduom.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.Addsize.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.Addcolor.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.Addbranch.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddStore.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.Addcuom.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddMenuG.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddMenuItem.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddCurrency.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddMOP.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddRecipe.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddModifier.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddGST.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddPrinter.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddSQLInfo.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddLayout.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddSupplier.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddFlavour.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddUser.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddCompanyInfo.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddKDS.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddCustomerInfo.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.AddPoints.resources
+E:\POS\obj\Debug\POSRestaurant.Setting.DevicesSetting.resources
+E:\POS\obj\Debug\POSRestaurant.test.resources

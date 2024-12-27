@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsfeedback" targetNamespace="http://tempuri.org/dsfeedback.xsd" xmlns:mstns="http://tempuri.org/dsfeedback.xsd" xmlns="http://tempuri.org/dsfeedback.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsfeedback" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsfeedback" msprop:Generator_UserDSName="dsfeedback">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Question" msprop:Generator_ColumnVarNameInTable="columnQuestion" msprop:Generator_ColumnPropNameInRow="Question" msprop:Generator_ColumnPropNameInTable="QuestionColumn" msprop:Generator_UserColumnName="Question" type="xs:string" minOccurs="0" />
+              <xs:element name="Option1" msprop:Generator_ColumnVarNameInTable="columnOption1" msprop:Generator_ColumnPropNameInRow="Option1" msprop:Generator_ColumnPropNameInTable="Option1Column" msprop:Generator_UserColumnName="Option1" type="xs:string" minOccurs="0" />
+              <xs:element name="Option2" msprop:Generator_ColumnVarNameInTable="columnOption2" msprop:Generator_ColumnPropNameInRow="Option2" msprop:Generator_ColumnPropNameInTable="Option2Column" msprop:Generator_UserColumnName="Option2" type="xs:string" minOccurs="0" />
+              <xs:element name="Option3" msprop:Generator_ColumnVarNameInTable="columnOption3" msprop:Generator_ColumnPropNameInRow="Option3" msprop:Generator_ColumnPropNameInTable="Option3Column" msprop:Generator_UserColumnName="Option3" type="xs:string" minOccurs="0" />
+              <xs:element name="Option4" msprop:Generator_ColumnVarNameInTable="columnOption4" msprop:Generator_ColumnPropNameInRow="Option4" msprop:Generator_ColumnPropNameInTable="Option4Column" msprop:Generator_UserColumnName="Option4" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

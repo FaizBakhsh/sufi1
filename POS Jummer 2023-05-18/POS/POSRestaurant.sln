@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSRestaurant", "POSRestaurant.csproj", "{43F7DCC6-1B8C-462C-9415-E22C472AB042}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "POS", "..\pos installer\Second\POS\POS\POS.isproj", "{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042} = {43F7DCC6-1B8C-462C-9415-E22C472AB042}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{43F7DCC6-1B8C-462C-9415-E22C472AB042}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.Debug|Any CPU.ActiveCfg = DVD-5
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.Debug|Any CPU.Build.0 = DVD-5
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.DVD-5|Any CPU.Build.0 = DVD-5
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.Release|Any CPU.ActiveCfg = SingleImage
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.Release|Any CPU.Build.0 = SingleImage
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{BEE4B109-9FB7-4746-BDE3-4B3EE50F602E}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

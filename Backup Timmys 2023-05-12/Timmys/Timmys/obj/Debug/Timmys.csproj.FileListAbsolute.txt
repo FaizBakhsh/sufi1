@@ -1,0 +1,54 @@
+E:\timmys\Timmys\Timmys\bin\Debug\Timmys.exe.config
+E:\timmys\Timmys\Timmys\bin\Debug\Timmys.exe
+E:\timmys\Timmys\Timmys\bin\Debug\Timmys.pdb
+E:\timmys\Timmys\Timmys\obj\Debug\Timmys.csprojResolveAssemblyReference.cache
+E:\timmys\Timmys\Timmys\obj\Debug\Timmys.Properties.Resources.resources
+E:\timmys\Timmys\Timmys\obj\Debug\Timmys.csproj.GenerateResource.Cache
+E:\timmys\Timmys\Timmys\obj\Debug\Timmys.exe
+E:\timmys\Timmys\Timmys\obj\Debug\Timmys.pdb
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe.config
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.pdb
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csprojResolveAssemblyReference.cache
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.Properties.Resources.resources
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csproj.GenerateResource.Cache
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.exe
+D:\recover\Recovered data 09-23-2015 at 16_05_25\NTFS 1\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.pdb
+F:\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe.config
+F:\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe
+F:\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.pdb
+F:\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csprojResolveAssemblyReference.cache
+F:\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.Properties.Resources.resources
+F:\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csproj.GenerateResource.Cache
+F:\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.exe
+F:\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.pdb
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe.config
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.pdb
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\bin\Debug\Newtonsoft.Json.dll
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\bin\Debug\Newtonsoft.Json.xml
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csprojResolveAssemblyReference.cache
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.Properties.Resources.resources
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csproj.GenerateResource.Cache
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.exe
+E:\Software applications\Gloria Jeans active\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.pdb
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe.config
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.pdb
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\bin\Debug\Newtonsoft.Json.dll
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\bin\Debug\Newtonsoft.Json.xml
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csprojResolveAssemblyReference.cache
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.Properties.Resources.resources
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csproj.GenerateResource.Cache
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.exe
+E:\Software applications\Gloria Jeans P5\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.pdb
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe.config
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.exe
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\bin\Debug\Timmys.pdb
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\bin\Debug\Newtonsoft.Json.dll
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\bin\Debug\Newtonsoft.Json.xml
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.Properties.Resources.resources
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csproj.GenerateResource.Cache
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.exe
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.pdb
+D:\Windows Projects\new project\Gloria Jeanes\Timmys\Timmys\obj\Debug\Timmys.csprojResolveAssemblyReference.cache
